@@ -1,0 +1,10 @@
+{
+  "name": "osdash",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Outlet performance dashboard (static page protected by Basic Auth middleware)",
+  "dependencies": {
+    "@vercel/functions": "^3.10.1"
+  }
+}
